@@ -127,7 +127,6 @@ extra domains.
 
 See `config-sample.yml` for more.
 
-
 ## The Layout
 
 The root of this repository equals the contents of the directory
